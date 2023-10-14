@@ -1,16 +1,11 @@
-# generate_csv
+# Generate & Download CSV Demo
 
-A new Flutter project.
+## Description:
+This is a simple app that helps you generate and download CSV files. You can use it on Android, iOS, and the web.
 
-## Getting Started
+- On Android, if you click "Generate CSV," the file will be saved in your Downloads folder.
+- For iOS, when you press "Generate CSV," a menu will pop up with choices like copying the file or saving it.
+- If you're using the web version, hitting "Generate CSV" can either ask you to download the file or save it straight to your Downloads folder.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview
+![alt text](https://i.postimg.cc/tTTFCzfJ/Screenshot-2023-10-14-at-5-34-37-PM.png "img")
