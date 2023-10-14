@@ -59,7 +59,7 @@ class _MyHomePageState extends State<MyHomePage> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
                 const Text(
-                  "This is a simple app that helps you make and get CSV files. You can use it on Android, iOS, and the web.",
+                  "This is a simple app that helps you generate and download CSV files. You can use it on Android, iOS, and the web.",
                 ),
                 const SizedBox(height: 16),
                 const Text(
